@@ -1,0 +1,89 @@
+/* 
+	The Servo Stressors Contact Styles Sheet
+    Filename: contact.css
+    
+    Author: Erin Kelley  
+    Date: 1-18-2021
+ */
+
+ /* Contact-info */
+#contact {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+ }
+ #contact .form {
+    float: left;
+    width: 50%;
+ }
+ #contact .form h2,
+ #contact .form p {
+    padding: 0;
+    margin: 1em 0 0.5em;
+ }
+ #contact h3 {
+   margin: 1.4em 0 0.5em;
+ }
+ #contact .group {
+    margin-bottom: 20px;
+    width: auto;
+ }
+ #contact .form label {
+    display: block;
+    margin-bottom: 5px;
+ }
+ #contact .form input,
+ #contact .form textarea {
+     width: 100%;
+     padding: 10px;
+ }
+ #contact .form textarea {
+     height: 200px;
+ }
+ #contact .email {
+    float: right ;
+    width: 50%;
+    height: 100%;
+    padding: 0 30px;
+ }
+ #contact .email p span,
+ #contact .phone-address p span {
+    text-decoration: underline;
+ }
+ #contact .email img {
+    margin-top: 20px;
+    border-radius: 10px;
+ }
+ 
+ #contact .phone-address {
+    float: left ;
+    width: 50%;
+    height: 100%;
+    padding: 0 30px;
+ }
+ #contact .phone-address img {
+    margin-top: 20px;
+ }
+
+.label {
+	font-size: 1.3em;
+	padding-top: 20px;
+	text-decoration: underline;
+}
+
+p {
+   line-height: 1.4em;
+   font-size: 1em;
+}
+
+ h6 {
+   padding: 0.4em 0.4em 0;
+   text-align: center;
+   font-family: Roboto Mono, Times New Roman, Times, serif;
+   font-size: 2em;
+   font-weight: 700;
+ 	
+ }
+ 
+ 
+ 

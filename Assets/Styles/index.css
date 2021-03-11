@@ -1,0 +1,45 @@
+/* 
+	The Servo Stressors Sheet -- HOME
+    Filename: index.css
+    
+    Author: Erin Kelley  
+    Date: 1-18-2021
+ */
+
+/* index styles */
+.home img {
+	height: 55%;
+	width: 55%;
+	padding: 1em;
+	float: right;
+}
+.home p {
+	font-size: 1.2em;
+	padding: .5em;
+}
+#home {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+ }
+ #home {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+ }
+ #home .form {
+    float: left;
+    width: 50%;
+ }
+ #home .form h2,
+ #home .form p {
+    padding: 0;
+    margin: 1em 0 0.5em;
+ }
+ #home h3 {
+   margin: 1.4em 0 0.5em;
+ }
+ #home .group {
+    margin-bottom: 20px;
+    width: auto;
+ }

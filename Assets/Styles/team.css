@@ -1,0 +1,74 @@
+/* 
+	The Servo Stressors Sheet -- Team Members
+    Filename: index.css
+    
+    Author: Erin Kelley  
+    Date: 1-19-2021
+ */
+ 
+  #team,
+ #people {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+ }
+ #team,
+ #peopleL {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: left;
+ }
+ #team,
+ #peopleR {
+    height: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: right;
+ }
+ #team {
+   text-align: center;
+ }
+p {
+   line-height: 1.4em;
+   font-size: 1em;
+}
+h5 {
+	text-decoration: underline;
+    text-decoration-color: #005933;
+    padding: 0.5em;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+#people img{
+	height: 50%;
+	width: 40%;
+	padding: 1em;
+	float: right;
+	border-radius: 10px;
+}
+
+ #team h1,
+ #team h2,
+ #team h3,
+ #team h4 {
+    text-decoration: underline;
+    text-decoration-color: #005933;
+    padding: 0.5em;
+ }
+ .choices-list {
+     display: block;
+     float: left;
+     cursor: pointer;
+ }
+ .fav-img img,
+ #team img {
+   border-radius: 5px;
+ }
+ .fav-img {
+    float: right;
+ }
